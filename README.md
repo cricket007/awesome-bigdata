@@ -205,6 +205,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## Graph Data Model
 
 * [AgensGraph](http://www.agensgraph.com/) - a new generation multi-model graph database for the modern complex data environment.
+* [JanusGraph](http://janusgraph.org/) - a scalable graph database that supports various storage backends such as Cassandra, HBase, and Google BigQuery. 
 * [Apache Giraph](http://giraph.apache.org/) - implementation of Pregel, based on Hadoop.
 * [Apache Spark Bagel](http://spark.apache.org/docs/0.7.3/bagel-programming-guide.html) - implementation of Pregel, part of Spark.
 * [ArangoDB](https://www.arangodb.com/) - multi model distributed database.
